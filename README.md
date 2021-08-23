@@ -17,6 +17,7 @@ html문서의 기본구조
 <title>HTML 기본문서</title>
 </head>
 <body>
+
 <h1>프런트엔드 웹 개발</h1>
 <hr>
 <p>HTML</p>
@@ -24,5 +25,4 @@ html문서의 기본구조
 <p>자바스크립트</p>
 </body>
 </html>
-
 
