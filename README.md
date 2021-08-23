@@ -26,4 +26,14 @@ html문서의 기본구조
 </body>
 </html>
 
-
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>첫번째 웹 문서 연습</title>
+</head>
+<body>
+    <h1>웹 문서 만들기</h1>
+</body>
+</html>
