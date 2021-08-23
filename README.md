@@ -26,6 +26,8 @@ html문서의 기본구조
 </body>
 </html>
 
+html 기본구조 
+
 <!DOCTYPE html>
 <html lang="ko">
 <head>
