@@ -10,7 +10,7 @@ HyperTextMarkupLanguage
 
 
 html문서의 기본구조 
-<!DOCTYPE html>
+/*<!DOCTYPE html>*/
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
@@ -25,4 +25,5 @@ html문서의 기본구조
 <p>자바스크립트</p>
 </body>
 </html>
+
 
