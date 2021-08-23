@@ -8,36 +8,22 @@ study
 
 HyperTextMarkupLanguage
 
- 
 
-// <!DOCTYPE html>
-
+html문서의 기본구조 
+<!DOCTYPE html>
 <html lang="ko">
-
 <head>
-
-<meta charset="UTF-8">
-
+<meta charset="UTF-8">
 <title>HTML 기본문서</title>
-
 </head>
-
 <body>
 
-
-
-// <h1>프런트엔드 웹 개발</h1>
-
-// <hr>
-
-// <p>HTML</p>
-
-// <p>CSS</p>
-
-// <p>자바스크립트</p>
-
+<h1>프런트엔드 웹 개발</h1>
+<hr>
+<p>HTML</p>
+<p>CSS</p>
+<p>자바스크립트</p>
 </body>
-
 </html>
 
 
